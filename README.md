@@ -3,31 +3,31 @@
 [Click Here](https://youtu.be/4pTzvGeZdmI)
 
 # Remote Design:
-![Full Drone](../main/asset/1.jpg)
+![Full Drone](../main/assets/1.jpg)
 
 # Remote Design:
-![Full Drone](../main/asset/2.jpg)
+![Full Drone](../main/assets/2.jpg)
 
 # Remote Design:
-![Full Drone](../main/asset/3.jpg)
+![Full Drone](../main/assets/3.jpg)
 
 # Remote Design:
-![Full Drone](../main/asset/4.jpg)
+![Full Drone](../main/assets/4.jpg)
 
 # Remote Design:
-![Full Drone](../main/asset/5.jpg)
+![Full Drone](../main/assets/5.jpg)
 
 # Remote Design:
-![Full Drone](../main/asset/6.jpg)
+![Full Drone](../main/assets/6.jpg)
 
 # Remote Design:
-![Full Drone](../main/asset/7.jpg)
+![Full Drone](../main/assets/7.jpg)
 
 # Remote Design:
-![Full Drone](../main/asset/8.jpg)
+![Full Drone](../main/assets/8.jpg)
 
 # Remote Design:
-![Full Drone](../main/asset/9.jpg)
+![Full Drone](../main/assets/9.jpg)
 
 # Remote Design:
-![Full Drone](../main/asset/10.jpg)
+![Full Drone](../main/assets/10.jpg)
