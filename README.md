@@ -15,9 +15,6 @@
 ![Full Drone](../main/assets/4.jpg)
 
 # Remote Design:
-![Full Drone](../main/assets/5.jpg)
-
-# Remote Design:
 ![Full Drone](../main/assets/6.jpg)
 
 # Remote Design:
